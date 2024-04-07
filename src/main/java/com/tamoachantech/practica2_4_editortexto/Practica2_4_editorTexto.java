@@ -11,5 +11,6 @@ import views.App;
  * @author super
  */
 public class Practica2_4_editorTexto {
-    
+    App foo = new App();
+	
 }
